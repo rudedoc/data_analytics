@@ -3,3 +3,7 @@ NYPD_Complaint_Data_Historic.csv
 .ipynb_checkpoints/
 NYPD_cleaned_mapped.csv
 updated_complaints_data.csv
+property_price_prediction_model.pkl
+data/filtered_property_data.csv
+data/NY_House_Dataset.csv
+data/training_data.csv
