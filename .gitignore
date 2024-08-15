@@ -15,3 +15,4 @@ data/updated_complaints_data_cleaned.csv
 data/contingency_table_ofns_desc_vs_prem_typ_desc.csv
 contingency_table_ofns_desc_vs_hour.csv
 interaction_model_coefficients.csv
+knn_predictions.csv
