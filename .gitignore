@@ -10,3 +10,8 @@ data/training_data.csv
 data/filtered_property_data_no_outliers_price_per_sqft.csv
 data/filtered_property_data_no_outliers.csv
 data/final_filtered_property_data_no_outliers.csv
+data/updated_complaints_data_old.csv
+data/updated_complaints_data_cleaned.csv
+data/contingency_table_ofns_desc_vs_prem_typ_desc.csv
+contingency_table_ofns_desc_vs_hour.csv
+interaction_model_coefficients.csv
